@@ -27,7 +27,7 @@
 - 🧠 Interested in Computer Vision, Deep Learning & Data Science.  
 - 🌱 Currently learning and improving my skills in model deployment and MLOps.  
 - 💬 Ask me about AI projects, Python, or training ML models.  
-- 🐧 I love exploring Linux systems & automation tools.
+
 
 ---
 
@@ -40,7 +40,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 

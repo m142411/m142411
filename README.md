@@ -1,36 +1,59 @@
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+
+### 👋 Hi, I'm **Mays Alshmrani**  
+🎓 AI Graduate | 🤖 Machine Learning & Deep Learning Enthusiast | 💻 Tech Explorer
+
+</div>
+
+<hr></hr>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%"/><br> 
+![Profile Views](https://komarev.com/ghpvc/?username=Mays-Alshmrani&style=flat&color=orange&label=PROFILE+VIEWS)
+[![telegram badge](https://img.shields.io/badge/Contact-grey?style=flat&logo=telegram)](#)
+[![Linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](#)
+[![Github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/)
 
 </div>
 
 ---
 
-## 🧠 About Me
-🤖 أنا ميس الشمراني، متخصصة في **الذكاء الاصطناعي وتدريب نماذج ML**  
-🌱 مهتمة بتعلم **نشر النماذج (Model Deployment) و MLOps**  
-💬 اسألوني عن مشاريع AI أو Python أو تدريب النماذج  
-🐧 أحب استكشاف أنظمة **Linux** وأدوات الأتمتة
+### 🧠 **About Me**
+
+- 🤖 AI & Machine Learning Graduate passionate about building smart solutions.  
+- 🧠 Interested in Computer Vision, Deep Learning & Data Science.  
+- 🌱 Currently learning and improving my skills in model deployment and MLOps.  
+- 💬 Ask me about AI projects, Python, or training ML models.  
+- 🐧 I love exploring Linux systems & automation tools.
 
 ---
 
-# 🔥 Predicting the Extent of Forest Fire Damage
+### 🚀 **Tech Stack & Tools**
 
-## 📄 Project Overview
-هدف المشروع بناء **نموذج انحدار (Regression Model)** لتوقع مساحة الحرائق (`area`) الناتجة عن الحرائق الغابية باستخدام بيانات الطقس، مكونات **Fire Weather Index (FWI)**، والموقع الجغرافي. ركز المشروع على التعامل مع **مشكلة البيانات غير المتوازنة** لضمان توقع صحيح للحوادث الكبيرة.
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🎯 Methodology
-- معالجة skewness عبر تحويل **log1p** للمتغير `area`.  
-- ترميز الخصائص التصنيفية (**One-Hot Encoding**) للأعمدة `month`، `X`، `Y`.  
-- تصحيح عدم التوازن عبر **Oversampling** للأحداث النادرة.  
-- استخدام نموذج **XGBoost Regressor** لأداء قوي ومرن.
+```python
+# Just a friendly code block 😄
+class AI_Engineer:
+    def __init__(self):
+        self.name = "Mays Alshmrani"
+        self.specialization = "Artificial Intelligence"
+        self.skills = ["Machine Learning", "Deep Learning", "Python", "Data Science"]
 
-## 📊 Results
-- RMSE النهائي: **3.765** على مجموعة الاختبار  
-- النموذج الآن يتوقع مناطق حرائق كبيرة بشكل أفضل، مع ميل طفيف للتقدير الزائد (مرغوب في تقييم المخاطر).
+    def say_hi(self):
+        print(f"Hello! I'm {self.name}, passionate about {self.specialization} 🚀")
 
----
-
-## 📁 Project Structure
-
+me = AI_Engineer()
+me.say_hi()

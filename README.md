@@ -12,9 +12,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mays-Alshmrani&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Contact-grey?style=flat&logo=telegram)](#)
-[![Linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mays-alshamrani-885238255)
 [![Github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/)
 
 </div>

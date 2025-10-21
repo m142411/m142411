@@ -12,8 +12,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/mays-alshamrani-885238255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/Mays%20Alshamrani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mays-alshamrani-885238255)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/MaysAlshmrani)
 
 </div>
 
@@ -25,7 +25,6 @@
 - 🧠 Interested in Computer Vision, Deep Learning & Data Science.  
 - 🌱 Currently learning and improving my skills in model deployment and MLOps.  
 - 💬 Ask me about AI projects, Python, or training ML models.  
-
 
 ---
 

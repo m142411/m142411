@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://github.com/m142411)
+[![LinkedIn](https://www.linkedin.com/in/mays-alshamrani-885238255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Github badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/)
 
 </div>
